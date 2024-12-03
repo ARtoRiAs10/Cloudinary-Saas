@@ -33,5 +33,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 Website is live on : 
 ```
-https://cloudinary-saas.onrender.com
+https://cloudinary-saas.onrender.com/home
 ```
